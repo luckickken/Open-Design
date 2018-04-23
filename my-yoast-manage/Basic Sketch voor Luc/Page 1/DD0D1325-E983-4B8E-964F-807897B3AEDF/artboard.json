@@ -1,0 +1,728 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "DD0D1325-E983-4B8E-964F-807897B3AEDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1458,
+    "width": 1920,
+    "x": 2296,
+    "y": -354
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      0,
+      8,
+      16,
+      24,
+      32,
+      40,
+      48,
+      56,
+      64,
+      72,
+      80,
+      88,
+      96,
+      104,
+      112,
+      120,
+      128,
+      136,
+      144,
+      152,
+      160,
+      168,
+      176,
+      184,
+      192,
+      200,
+      208,
+      216,
+      224,
+      232,
+      240,
+      248,
+      256,
+      264,
+      272,
+      280,
+      288,
+      296,
+      304,
+      312,
+      320,
+      328,
+      336,
+      344,
+      352,
+      360,
+      368,
+      376,
+      384,
+      392,
+      400,
+      408,
+      416,
+      424,
+      432,
+      440,
+      448,
+      456,
+      464,
+      472,
+      480,
+      488,
+      496,
+      504,
+      512,
+      520,
+      528,
+      536,
+      544,
+      552,
+      560,
+      568,
+      576,
+      584,
+      592,
+      600,
+      608,
+      616,
+      624,
+      632,
+      640,
+      648,
+      656,
+      664,
+      672,
+      680,
+      688,
+      696,
+      704,
+      712,
+      720,
+      728,
+      736,
+      744,
+      752,
+      760,
+      768,
+      776,
+      784,
+      792,
+      800,
+      808,
+      816,
+      824,
+      832,
+      840,
+      848,
+      856,
+      864,
+      872,
+      880,
+      888,
+      896,
+      904,
+      912,
+      920,
+      928,
+      936,
+      944,
+      952,
+      960,
+      968,
+      976,
+      984,
+      992,
+      1000,
+      1008,
+      1016,
+      1024,
+      1032,
+      1040,
+      1048,
+      1056,
+      1064,
+      1072,
+      1080,
+      1088,
+      1096,
+      1104,
+      1112,
+      1120,
+      1128,
+      1136,
+      1144,
+      1152,
+      1160,
+      1168,
+      1176,
+      1184,
+      1192,
+      1200,
+      1208,
+      1216,
+      1224,
+      1232,
+      1240,
+      1248,
+      1256,
+      1264,
+      1272,
+      1280,
+      1288,
+      1296,
+      1304,
+      1312,
+      1320,
+      1328,
+      1336,
+      1344,
+      1352,
+      1360,
+      1368,
+      1376,
+      1384,
+      1392,
+      1400,
+      1408,
+      1416,
+      1424,
+      1432,
+      1440,
+      1448,
+      1456,
+      1464,
+      1472,
+      1480,
+      1488,
+      1496,
+      1504,
+      1512,
+      1520,
+      1528,
+      1536,
+      1544,
+      1552,
+      1560,
+      1568,
+      1576,
+      1584,
+      1592,
+      1600,
+      1608,
+      1616,
+      1624,
+      1632,
+      1640,
+      1648,
+      1656,
+      1664,
+      1672,
+      1680,
+      1688,
+      1696,
+      1704,
+      1712,
+      1720,
+      1728,
+      1736,
+      1744,
+      1752,
+      1760,
+      1768,
+      1776,
+      1784,
+      1792,
+      1800,
+      1808,
+      1816,
+      1824,
+      1832,
+      1840,
+      1848,
+      1856,
+      1864,
+      1872,
+      1880,
+      1888,
+      1896,
+      1904,
+      1912,
+      1920
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeInCloudUpload": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FFABBCD9-1E52-471F-9C49-33E539019433"
+    },
+    {
+      "class": "text",
+      "id": "4CAB387E-9A44-4CF0-BB50-59A6367CF159"
+    },
+    {
+      "class": "group",
+      "id": "767ECBFF-AB42-4422-AF87-E3A7D1931116"
+    },
+    {
+      "class": "group",
+      "id": "78F02D2E-D9CA-4F8E-9454-5F2C0E74187D"
+    },
+    {
+      "class": "group",
+      "id": "466E0BF8-5244-4C0A-A40A-5031CF142183"
+    },
+    {
+      "class": "group",
+      "id": "45E71C0B-2C21-41AA-9160-85209763468F"
+    },
+    {
+      "class": "group",
+      "id": "8D9381B1-6428-4A74-B806-6D440BC69F03"
+    },
+    {
+      "class": "text",
+      "id": "B479E2A7-840B-457A-8341-6B095D5FDCFB"
+    },
+    {
+      "class": "text",
+      "id": "151E1EFC-45A2-4CF6-917C-86DF4D70A8FF"
+    },
+    {
+      "class": "text",
+      "id": "6CADCF11-1F3C-4B2D-B939-7DF4121D5F6F"
+    },
+    {
+      "class": "text",
+      "id": "FFBA5276-F6B6-4322-9584-7FB3FE81D3AB"
+    },
+    {
+      "class": "text",
+      "id": "A8E561A3-9EEB-4210-A40B-82BBD72D67C7"
+    },
+    {
+      "class": "text",
+      "id": "94DDD3A4-56BB-4F50-B091-608D1FCA1C18"
+    },
+    {
+      "class": "text",
+      "id": "93F8A5F4-6BD1-4772-A86A-68F1A546E9E7"
+    },
+    {
+      "class": "text",
+      "id": "36D8C74E-74C4-42B5-8D8C-8FDE54357A51"
+    },
+    {
+      "class": "text",
+      "id": "94917D0E-3301-4538-B7F2-23B88C5C0827"
+    },
+    {
+      "class": "text",
+      "id": "EE8E60CC-69CD-44F7-B5AB-F83D67F112F6"
+    },
+    {
+      "class": "text",
+      "id": "509CEBEB-B9D7-41A8-A903-87BCAF0017D6"
+    },
+    {
+      "class": "text",
+      "id": "A2E62865-707D-48F0-85E1-1B82A2F71649"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A46AD4ED-07BC-4781-9099-CAE4AD298FAD"
+    },
+    {
+      "class": "text",
+      "id": "438F11A0-89D5-44DD-8292-4859D15480DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7F29405E-E2CE-4E22-856F-0D1561E3109A"
+    },
+    {
+      "class": "text",
+      "id": "57F118A6-9D68-4435-8609-52C909069DE3"
+    },
+    {
+      "class": "text",
+      "id": "D013EC75-B7D1-4B8A-81CC-3CAB78B62B4F"
+    },
+    {
+      "class": "text",
+      "id": "DAD5A96C-081F-4533-8BDC-FA848FCB6707"
+    },
+    {
+      "class": "text",
+      "id": "B4E55982-C57A-479D-B523-8D225EFFDF32"
+    },
+    {
+      "class": "text",
+      "id": "404A9DDE-4C71-4EC8-A2EB-003978393912"
+    },
+    {
+      "class": "text",
+      "id": "0639C597-B85E-488E-A759-FCC169B26511"
+    },
+    {
+      "class": "text",
+      "id": "33F663BE-9401-4D2D-8E3F-3C258B27B9CD"
+    },
+    {
+      "class": "text",
+      "id": "2A85FDF0-9B1B-4782-A39D-3D93765FD574"
+    },
+    {
+      "class": "text",
+      "id": "FE80E677-1B51-459D-8495-7BE4A36CEA62"
+    },
+    {
+      "class": "text",
+      "id": "49008309-4454-458A-8974-1F1284D8D6FD"
+    },
+    {
+      "class": "text",
+      "id": "A7B0E045-8D40-4E62-9CB2-8A065C9DE839"
+    },
+    {
+      "class": "text",
+      "id": "2C14AF44-8C3B-49EA-A978-B44F91006EE3"
+    },
+    {
+      "class": "text",
+      "id": "A2D23E62-D36A-4036-B1CE-473FF469465A"
+    },
+    {
+      "class": "text",
+      "id": "6694AE74-F25A-4C87-8775-2CF472F70013"
+    },
+    {
+      "class": "text",
+      "id": "06AB9F51-87DA-4C2B-BE82-7B8F1234029E"
+    },
+    {
+      "class": "text",
+      "id": "BF2DF580-7A4B-4F40-8DCF-FDCF5D3BD18A"
+    },
+    {
+      "class": "text",
+      "id": "DD3255DB-E30B-420A-9AF3-5744BC7D5727"
+    },
+    {
+      "class": "text",
+      "id": "D559954B-3ACE-4EE4-B0E5-1AC57880FCA8"
+    },
+    {
+      "class": "text",
+      "id": "EB95F68C-D598-41A7-9AF1-0619C8B56ACB"
+    },
+    {
+      "class": "text",
+      "id": "DDD64097-1C89-460E-BE30-2E13B715089F"
+    },
+    {
+      "class": "text",
+      "id": "122604AD-2BB2-49BA-AFED-47FD4538AFD9"
+    },
+    {
+      "class": "text",
+      "id": "5B5341E6-9142-4526-859F-592EEA90F539"
+    },
+    {
+      "class": "text",
+      "id": "E5630AF6-B7CD-469F-A823-EF575028B42E"
+    },
+    {
+      "class": "text",
+      "id": "351B45CA-0896-4F86-ACCF-12A7AD17BE82"
+    },
+    {
+      "class": "text",
+      "id": "B894B48B-F233-4003-B2E4-26926603C2CF"
+    },
+    {
+      "class": "text",
+      "id": "6DC9A4F0-2912-4C3D-8DD5-E8BB61BF1ED3"
+    },
+    {
+      "class": "group",
+      "id": "8B855E51-5222-4209-988D-FAD5B893B1A4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6540867F-CF8F-49B3-BFE8-706FB8702410"
+    },
+    {
+      "class": "text",
+      "id": "EDBB18C8-45F7-4996-BCC2-F001A0647846"
+    },
+    {
+      "class": "text",
+      "id": "F3202A74-41D0-4D4E-80B1-645F57F8DACE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0507F2F5-29B3-4268-8497-518313C9BD6B"
+    },
+    {
+      "class": "text",
+      "id": "2FE8E101-AB6B-43C8-917B-84C69E6C9054"
+    },
+    {
+      "class": "text",
+      "id": "CFCAD5E8-3557-421A-8594-1EAE51948F3C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5BFEB14-F264-49BA-A99B-E0DD9AAB4FA1"
+    },
+    {
+      "class": "text",
+      "id": "B206C728-89C5-4A62-83CC-4AE05C163318"
+    },
+    {
+      "class": "text",
+      "id": "BE38F9D3-108E-4DE7-B562-1CD9FD98D4E5"
+    },
+    {
+      "class": "group",
+      "id": "AA474D7D-47F7-4A01-8969-F7485581BFF7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "524666B6-46AB-46F7-91B8-4F26E5366819"
+    },
+    {
+      "class": "bitmap",
+      "id": "CAF60799-2ADE-49C9-B796-80E7395DD0C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F4A5A597-D13C-4E71-8879-61FB8283DBAA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D42EC3E1-B0CE-41C5-85EB-A4B4C9E411B5"
+    }
+  ],
+  "name": "Search results - Customers",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1458,
+    "name": "Custom Size",
+    "offersLandscapeVariant": 0,
+    "width": 1920
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      0,
+      8,
+      16,
+      24,
+      32,
+      40,
+      48,
+      56,
+      64,
+      72,
+      80,
+      88,
+      96,
+      104,
+      112,
+      120,
+      128,
+      136,
+      144,
+      152,
+      160,
+      168,
+      176,
+      184,
+      192,
+      200,
+      208,
+      216,
+      224,
+      232,
+      240,
+      248,
+      256,
+      264,
+      272,
+      280,
+      288,
+      296,
+      304,
+      312,
+      320,
+      328,
+      336,
+      344,
+      352,
+      360,
+      368,
+      376,
+      384,
+      392,
+      400,
+      408,
+      416,
+      424,
+      432,
+      440,
+      448,
+      456,
+      464,
+      472,
+      480,
+      488,
+      496,
+      504,
+      512,
+      520,
+      528,
+      536,
+      544,
+      552,
+      560,
+      568,
+      576,
+      584,
+      592,
+      600,
+      608,
+      616,
+      624,
+      632,
+      640,
+      648,
+      656,
+      664,
+      672,
+      680,
+      688,
+      696,
+      704,
+      712,
+      720,
+      728,
+      736,
+      744,
+      752,
+      760,
+      768,
+      776,
+      784,
+      792,
+      800,
+      808,
+      816,
+      824,
+      832,
+      840,
+      848,
+      856,
+      864,
+      872,
+      880,
+      888,
+      896,
+      904,
+      912,
+      920,
+      928,
+      936,
+      944,
+      952,
+      960,
+      968,
+      976,
+      984,
+      992,
+      1000,
+      1008,
+      1016,
+      1024,
+      1032,
+      1040,
+      1048,
+      1056,
+      1064,
+      1072,
+      1080
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "group1110",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 650,
+    "width": 150,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "shapeGroup1104"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "shapeGroup1105"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "shapeGroup1106"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AEE088DC-2046-4BDD-8FA6-AADFC12A28E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "66DFEAEF-6F6A-4414-8CF7-3BA98D52C572"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9436EA92-5BF7-449C-840D-D3FC436CCD27"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0559697F-D147-463B-B37C-3EF0B189F1DB"
+    }
+  ],
+  "name": "buttons manage",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

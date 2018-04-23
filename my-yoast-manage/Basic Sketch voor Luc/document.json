@@ -1,0 +1,47 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "1FB027C4-A979-4E3E-B56A-1815C5BE0E36",
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "49.3",
+    "build": 51167,
+    "version": 101
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "userInfo": {
+    "com.davidwilliames.sketch-plugin.paddy": {
+      "persistentLayers": [
+      ],
+      "previousParentProps": {
+      },
+      "previousSelectedProps": {
+      }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":13314127,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

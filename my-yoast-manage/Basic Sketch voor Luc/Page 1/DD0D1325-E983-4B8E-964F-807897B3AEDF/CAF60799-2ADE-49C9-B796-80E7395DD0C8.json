@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "CAF60799-2ADE-49C9-B796-80E7395DD0C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC674CDB-CA47-4487-9B8D-DE7999EA5A4E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "035A730B-A33A-4F2C-A70E-767EC93BE39B",
+    "height": 87.61528326745717,
+    "width": 200,
+    "x": 44,
+    "y": 31
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/40725c438d5d68e8bd7208d34a6561bafa13d73b",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MyYoast Manage logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3640902-82B2-4430-A4CD-409534094EA3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

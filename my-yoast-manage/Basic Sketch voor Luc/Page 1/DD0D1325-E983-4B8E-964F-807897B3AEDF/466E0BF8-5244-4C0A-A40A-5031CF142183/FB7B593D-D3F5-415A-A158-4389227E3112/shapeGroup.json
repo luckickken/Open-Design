@@ -1,0 +1,78 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "FB7B593D-D3F5-415A-A158-4389227E3112",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 174,
+    "width": 31,
+    "x": 510,
+    "y": 101
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F1F0BA10-5A42-499A-8C56-BBBE3DD2C8EB"
+    },
+    {
+      "class": "shapePath",
+      "id": "8FD1F40B-0858-409B-93D7-8E5ED3622A43"
+    },
+    {
+      "class": "shapePath",
+      "id": "32AF6A97-7C15-4759-B1C5-D881C2DE5206"
+    },
+    {
+      "class": "shapePath",
+      "id": "11207EE8-B097-4CCC-AA8B-84DE6794BCDA"
+    }
+  ],
+  "name": "Combined shape 2612",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.15294118,
+          "green": 0.69803923,
+          "red": 0.46666667
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}
